@@ -1,0 +1,103 @@
+.nav-color{
+    background-color: rgb(253, 152, 58);
+    
+}
+.menu-options{
+    color: white !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
+.logo{
+    height: 80px;
+    width: 80px;
+    border-radius: 50px;
+    border-width: 1px;
+    border-style: dashed;
+    border-color:rgb(247, 30, 1) ;
+}
+.banner-section{
+    background-image: url("./images/banner-image.avif");
+    height: 100vh;
+    background-size: cover;
+}
+.heading{
+    color: #ffffff;
+
+}
+.caption{
+    color: #ffffff;
+}
+.btn-styles{
+    color: #ffffff !important;
+}
+.categories{
+    color: rgb(124, 56, 187);
+}
+.description{
+    color: rgb(184, 197, 208);
+}
+.thanks-section{
+    background-color: rgb(253, 152, 58);
+    padding:35px;
+}
+
+.examples{
+    background-image: linear-gradient(orange, gold);
+    height: 100%;
+    padding: 25px;
+}
+.example{
+    background-image: linear-gradient(orange, gold);   
+}
+.why-choose{
+    background-color: rgb(245, 190, 139);
+    padding: 25px;
+}
+.card-container{
+    background-color: #ffffff;
+    padding: 35px;
+    text-align: center;
+    border-width: 5px;
+    border-style: solid;
+    border-color: rgb(253, 152, 58);
+    border-radius: 7px;
+}
+
+.food-heading{
+    color: rgb(253, 152, 58);
+}
+.choose{
+    color: rgb(253, 152, 58);
+}
+.icons{
+    color: rgb(253, 152, 58);
+}
+.icons-container{
+    background-color: rgb(247, 203, 162);
+    border-radius: 50px;
+    padding:10px;
+    text-align: center;
+    margin: 8px;
+}
+.menu-container{
+    background-image: url('./images/banner-image.avif');
+    height: 100%;
+    padding: 25px;
+    background-size: cover;
+}
+.menu-card{
+    background-color: #ffffff;
+    padding: 15px;
+    border-radius: 5px;
+}
+.menu-imgs{
+    border-radius: 5px;
+
+    width: 100%;
+}
+.vocher{
+    background-image: url('./images/discount-image.avif');
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+}
